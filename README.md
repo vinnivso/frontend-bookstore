@@ -14,7 +14,7 @@ To add a book, simply fill in the required fields, and if you'd like, you can al
 ## 📝 How to Install and Run the Project
 ```bash
 # Clone this repository
-$ git clone linkrepo
+$ git clone <repository-link>
 
 # Acesse the folder in you terminal
 $ cd frontend-bookstore
@@ -28,4 +28,3 @@ $ npm run dev
 
 ## 📚 Technologies Used
 1. [React](https://pt-br.reactjs.org/)
-2. [Tailwind](https://tailwindcss.com/)
